@@ -4,7 +4,7 @@ A Python script to copy selected playlists from Spotify to YouTube Music.
 
 ## Description
 
-This script, created by K43M1S, allows users to transfer their Spotify playlists to YouTube Music. It retrieves all playlists from a Spotify account, prompts the user to select which ones to copy, and creates equivalent playlists in YouTube Music by matching tracks as closely as possible.
+This script allows users to transfer their Spotify playlists to YouTube Music. It retrieves all playlists from a Spotify account, prompts the user to select which ones to copy, and creates equivalent playlists in YouTube Music by matching tracks as closely as possible.
 
 ## Setup Instructions
 
@@ -22,12 +22,10 @@ This script, created by K43M1S, allows users to transfer their Spotify playlists
 
 3. **Requirements**:
    - Python 3.6 or higher.
+   - Install dependencies
    - A Spotify account with playlists.
    - A Google account for YouTube Music.
-   - Install dependencies:
-     ```bash
-     pip install spotipy ytmusicapi python-Levenshtein
-     ```
+   
 
 ## Installation
 
