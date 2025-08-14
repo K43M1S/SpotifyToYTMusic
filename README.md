@@ -46,7 +46,7 @@ This script allows users to transfer their Spotify playlists to YouTube Music. I
 
 1. Run the script:
    ```bash
-   python yt.py
+   python main.py
    ```
 
 2. Follow the prompts:
